@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="login_View" type="id" />
+    <item name="login_Name" type="id" />
+    <item name="login_password" type="id" />
+    <item name="login_Btn" type="id" />
+    <item name="section_label" type="id" />
+    <item name="frame" type="id" />
+    <item name="createfile" type="id" />
+</resources>

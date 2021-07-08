@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">E Home Service</string>
+    <string name="e_home_service" />
+    <string name="enter_your_email" />
+    <string name="enter_your_password" />
+    <string name="forgot_password" />
+    <string name="login" />
+    <string name="already_have_a_account_register">Already have a account! Register</string>
+    <string name="already_registered_login" />
+    <string name="register" />
+    <string name="enter_confirm_password" />
+    <string name="enter_password" />
+    <string name="enter_mobile_no" />
+    <string name="female" />
+    <string name="gender" />
+    <string name="enter_permanent_address" />
+    <string name="enter_local_address" />
+    <string name="male" />
+    <string name="enter_last_name" />
+    <string name="enter_middle_name" />
+    <string name="enter_first_name" />
+    <string name="registration" />
+    <string name="tab_text_1">Customer</string>
+    <string name="tab_text_2">Worker</string>
+    <string name="open">open</string>
+    <string name="close">close</string>
+    <string name="nav_header_title" />
+    <string name="nav_header_subtitle" />
+    <string name="help">Help</string>
+    <string name="share">Share</string>
+    <string name="rating">Rating</string>
+    <string name="about">About</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

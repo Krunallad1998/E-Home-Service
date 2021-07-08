@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <com.google.android.material.tabs.TabLayout
+        android:id="@+id/tabLayout5"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <com.google.android.material.tabs.TabItem
+            android:id="@+id/tab_All"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="All"/>
+
+        <com.google.android.material.tabs.TabItem
+            android:id="@+id/tab_Open"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Open" />
+
+        <com.google.android.material.tabs.TabItem
+            android:id="@+id/tab_Inprogess"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="In Progres" />
+
+        <com.google.android.material.tabs.TabItem
+            android:id="@+id/tab_past"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Past" />
+
+    </com.google.android.material.tabs.TabLayout>
+
+    <androidx.viewpager.widget.ViewPager
+        android:layout_below="@+id/tabLayout3"
+        android:layout_marginTop="50dp"
+        android:id="@+id/viewPager3"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"/>
+
+</RelativeLayout>

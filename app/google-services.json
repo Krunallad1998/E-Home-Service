@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "38920267909",
+    "firebase_url": "https://e-homeservice-a9e2a.firebaseio.com",
+    "project_id": "e-homeservice-a9e2a",
+    "storage_bucket": "e-homeservice-a9e2a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:38920267909:android:b0cf23075f90b6efbe61ec",
+        "android_client_info": {
+          "package_name": "com.example.homeservice"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "38920267909-trmjvamaop09oc5stv3isnl3elvb9fpq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_mHxCs73UCMa0cg7lciq7Ndi5GrXvJmE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "38920267909-trmjvamaop09oc5stv3isnl3elvb9fpq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

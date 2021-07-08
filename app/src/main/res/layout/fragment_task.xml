@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <com.google.android.material.tabs.TabLayout
+        android:id="@+id/tabLayout2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <com.google.android.material.tabs.TabItem
+            android:id="@+id/tab_post"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="User"/>
+
+        <com.google.android.material.tabs.TabItem
+            android:id="@+id/tab_work"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+           android:text="Worker" />
+
+
+    </com.google.android.material.tabs.TabLayout>
+    <androidx.viewpager.widget.ViewPager
+        android:layout_below="@+id/tabLayout2"
+        android:id="@+id/viewPager1"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"/>
+
+
+</RelativeLayout>
